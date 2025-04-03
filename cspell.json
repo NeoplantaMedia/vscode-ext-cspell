@@ -1,0 +1,83 @@
+{
+  "dictionaryDefinitions": [
+    {
+      "name": "css_extra",
+      "path": "./cspell_dictionaries/css_extra.txt"
+    },
+    {
+      "name": "fonts_extra",
+      "path": "./cspell_dictionaries/fonts_extra.txt"
+    },
+    {
+      "name": "html_extra",
+      "path": "./cspell_dictionaries/html_extra.txt"
+    },
+    {
+      "name": "ini",
+      "path": "./cspell_dictionaries/ini.txt"
+    },
+    {
+      "name": "provisioning",
+      "path": "./cspell_dictionaries/provisioning.txt"
+    },
+    {
+      "name": "php_extra",
+      "path": "./cspell_dictionaries/php_extra.txt"
+    },
+    {
+      "name": "wordpress",
+      "path": "./cspell_dictionaries/wordpress.txt"
+    },
+    {
+      "name": "xml_extra",
+      "path": "./cspell_dictionaries/xml_extra.txt"
+    }
+  ],
+
+  "dictionaries": ["provisioning", "wordpress"],
+
+  "languageSettings": [
+    {
+      "languageId": "css",
+      "dictionaries": ["css_extra"]
+    },
+    {
+      "languageId": "html",
+      "dictionaries": ["html_extra"]
+    },
+    {
+      "languageId": "ini",
+      "dictionaries": ["ini"]
+    },
+    {
+      "languageId": "javascript",
+      "dictionaries": ["css", "fonts", "fonts_extra", "css_extra", "html_extra"]
+    },
+    {
+      "languageId": "php",
+      "dictionaries": ["php_extra", "fonts", "fonts_extra"]
+    },
+    {
+      "languageId": "scss",
+      "dictionaries": ["fonts_extra", "css_extra"]
+    },
+    {
+      "languageId": "yaml",
+      "dictionaries": ["php_extra"]
+    },
+    {
+      "languageId": "xml",
+      "dictionaries": ["xml_extra"]
+    }
+  ],
+
+  "enableFiletypes": [
+    "dockerfile",
+    "dotenv",
+    "ignore",
+    "ini",
+    "neon",
+    "properties",
+    "xml"
+  ]
+}
