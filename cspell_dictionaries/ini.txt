@@ -1,0 +1,3 @@
+RewriteCond
+phps
+upload_max_filesize
