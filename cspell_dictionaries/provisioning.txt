@@ -110,3 +110,9 @@ pngquant
 mozjpeg
 linuxbrew
 cjpeg
+nodenext
+Quantise
+trellisQuantisation
+overshootDeringing
+optimiseScans
+quantisationTable
