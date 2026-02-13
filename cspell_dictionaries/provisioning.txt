@@ -116,3 +116,4 @@ trellisQuantisation
 overshootDeringing
 optimiseScans
 quantisationTable
+healthcheck
