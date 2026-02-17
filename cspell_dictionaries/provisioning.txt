@@ -50,6 +50,10 @@ mhsendmail
 xvzf
 phar
 mailhog
+mailpit
+mailhub
+axllent
+ssmtp
 chokidar
 usermod
 lsadm
