@@ -34,7 +34,7 @@
     }
   ],
 
-  "dictionaries": ["provisioning", "wordpress"],
+  "dictionaries": ["provisioning"],
 
   "languageSettings": [
     {
@@ -68,6 +68,10 @@
     {
       "languageId": "xml",
       "dictionaries": ["xml_extra"]
+    },
+    {
+      "languageId": "markdown",
+      "dictionaries": ["html_extra", "css_extra"]
     }
   ],
 

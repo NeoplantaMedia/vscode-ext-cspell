@@ -138,3 +138,6 @@ timemachine
 donotpresent
 apdisk
 DOCKER_BUILDKIT
+checkpointing
+ENOENT
+BMAD
